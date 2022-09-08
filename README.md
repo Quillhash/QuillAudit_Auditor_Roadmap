@@ -1,8 +1,8 @@
 # QuillAudit's SmartContract Auditor Roadmap
 
-![](files/QuillAudits%20SmartContract%20Auditor's%20Roadmap.png)
+![](https://github.com/Quillhash/QuillAudit_Auditor_Roadmap/blob/main/files/QuillAudits_Auditor's_Roadmap.png)
 
-Pdf Link: [QuillAudit_Auditor_Roadmap.pdf](files/QuillAudits%20SmartContract%20Auditor's%20Roadmap.pdf)
+Pdf Link: [QuillAudit_Auditor_Roadmap.pdf](https://github.com/Quillhash/QuillAudit_Auditor_Roadmap/blob/main/files/QuillAudits_Auditor's_Roadmap.pdf)
 
 Xmind Link: https://xmind.works/#/share/OjLKsLSh
 
@@ -155,3 +155,8 @@ Xmind Link: https://xmind.works/#/share/OjLKsLSh
 - [Awesome Web3 Security](https://github.com/Anugrahsr/Awesome-web3-Security)
 - [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
 - [Learn Blockchain, Solidity, and Full Stack Web3 Development with Python](https://www.youtube.com/watch?v=M576WGiDBdQ)
+
+
+### Credits:
+
+[**Auditor Mindmap by Razzorsec**](https://github.com/razzorsec/AuditorsRoadmap)
