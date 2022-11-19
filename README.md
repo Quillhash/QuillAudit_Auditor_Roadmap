@@ -18,7 +18,7 @@ Xmind Link: https://xmind.works/#/share/OjLKsLSh
 - ***Ethereum:***
     - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
         - Mandatory Chapters 1,2,3,4,5,6,13 & 14
-    - [Etheruem Documentations](https://ethereum.org/en/developers/)
+    - [Ethereum Documentations](https://ethereum.org/en/developers/)
     
 
 ### 2. Solidity Fundamentals:
