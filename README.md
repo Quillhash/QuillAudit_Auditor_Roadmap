@@ -7,6 +7,8 @@ Pdf Link: [QuillAudit_Auditor_Roadmap.pdf](https://github.com/Quillhash/QuillAud
 Xmind Link: https://xmind.works/#/share/OjLKsLSh
 
 ---
+Here is the best roadmap for you to become a Smart Contract Auditor!
+If you find anything missing or want to update existing resources, you call create a pull request and contribute to the project.
 
 ## Steps to Follow:
 
@@ -63,6 +65,7 @@ Xmind Link: https://xmind.works/#/share/OjLKsLSh
 - [solidity-patterns](https://github.com/fravoll/solidity-patterns)
 - [solcurity](https://github.com/transmissions11/solcurity)
 - [Smart Contract Security Verification Standard](https://github.com/securing/SCSVS)
+- [Consensys Smart-contract-best-practices](https://consensys.github.io/smart-contract-best-practices/)
 - [Security Pitfalls & Best Practices 101](https://secureum.substack.com/p/security-pitfalls-and-best-practices-101)
 - [Security Pitfalls & Best Practices 201](https://secureum.substack.com/p/security-pitfalls-and-best-practices-201)
 
@@ -123,6 +126,7 @@ Xmind Link: https://xmind.works/#/share/OjLKsLSh
 - **Audit Report Reading**
     - [QuillAudits](https://github.com/Quillhash/QuillAudit_Reports)
     - [Code4rena](https://code4rena.com/reports)
+    - [Sherlock](https://github.com/sherlock-audit)
     - [Spearbit](https://github.com/spearbit/portfolio/tree/master/pdfs)
     - [Consensys](https://consensys.net/diligence/audits/)
     - [Openzeppelin](https://blog.openzeppelin.com/security-audits/)
@@ -150,6 +154,8 @@ Xmind Link: https://xmind.works/#/share/OjLKsLSh
 
 ### 12. Miscellaneous Resources:
 
+- [Web3Suggests](https://web3suggest.xyz/)
+- [Web3-Security-Library](https://github.com/immunefi-team/Web3-Security-Library)
 - [TeachYourselfCrypto](https://teachyourselfcrypto.com)
 - [w3bs3c](https://www.w3bs3c.com/)
 - [Awesome Web3 Security](https://github.com/Anugrahsr/Awesome-web3-Security)
