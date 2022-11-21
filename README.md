@@ -8,7 +8,7 @@ Xmind Link: https://xmind.works/#/share/OjLKsLSh
 
 ---
 Here is the best roadmap for you to become a Smart Contract Auditor!
-If you find anything missing or want to update existing resources, you call create a pull request and contribute to the project.
+If you find anything missing or want to update existing resources, you can create a pull request and contribute to the project.
 
 ## Steps to Follow:
 
