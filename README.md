@@ -73,8 +73,7 @@ If you find anything missing or want to update existing resources, you can creat
 
 - [SWC Registry](https://swcregistry.io/)
 - [Kaden: Smart Contract Attack Vectors](https://github.com/KadenZipfel/smart-contract-attack-vectors)
-- [Secureum Security Pitfalls 101](https://secureum.substack.com/p/security-pitfalls-and-best-practices-101?s=r)
-- [Secureum Security Pitfalls 201](https://secureum.substack.com/p/security-pitfalls-and-best-practices-201?s=r)
+- [Solidity Attack Vectors](https://github.com/Quillhash/Solidity-Attack-Vectors)
 - [Common Vulnerabilities in Smart contracts MindMap](https://github.com/Anugrahsr/Awesome-web3-Security/blob/main/image/Vulnerabilities_in_Smart_contracts.png)
 
 ### 7. CTF Challenges:
@@ -120,6 +119,7 @@ If you find anything missing or want to update existing resources, you can creat
     - [BlockSec](https://blocksecteam.medium.com/)
     - [SlowMist](https://slowmist.medium.com/)
     - [Rekt News](https://rekt.news/)
+    - [Neptune Mutual](https://medium.com/@neptunemutual)
     - [PeckShield](https://twitter.com/peckshield)
     - [hacxyk](https://medium.com/@hacxyk)
     
@@ -144,6 +144,7 @@ If you find anything missing or want to update existing resources, you can creat
 - [Manticore](https://github.com/trailofbits/manticore)
 - [Surya](https://github.com/ConsenSys/surya)
 - [Eth Security Toolbox](https://github.com/trailofbits/eth-security-toolbox)
+- [Web3 Security Tools List](https://github.com/Quillhash/Web3-Security-Tools)
 
 ### 11. Keep Yourself Updated:
 
