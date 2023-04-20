@@ -25,7 +25,7 @@ If you find anything missing or want to update existing resources, you can creat
 
 ### 2. Solidity Fundamentals:
 
-- [Solidity Documentations](https://docs.soliditylang.org/en/latest/)
+- [Solidity Docs](https://docs.soliditylang.org/en/latest/)
 - [smartcontract.engineer](https://www.smartcontract.engineer/)
 - [Cryptozombies](https://cryptozombies.io/en/course/)
 - [Solidity-by-example](https://solidity-by-example.org/)
@@ -55,6 +55,7 @@ If you find anything missing or want to update existing resources, you can creat
 
 - **Upgradable Contracts:**
     - [Upgradeable Contracts - Smartcontract Programmer](https://www.youtube.com/watch?v=JgSj7IiE4jA)
+    - [yAcademy Proxies Research](https://proxies.yacademy.dev/)
     - [Risks of Upgradeable Contracts - Smartcontract Programmer](https://www.youtube.com/watch?v=XmxfB5JOt1Q)
     - [Different Proxy Patterns - EIPs 897, 1822, 1967, 1538, 2535](https://ethereum-blockchain-developer.com/110-upgrade-smart-contracts/00-project/)
     - [Openzeppelin Proxy docs](https://docs.openzeppelin.com/contracts/4.x/api/proxy)
@@ -81,6 +82,7 @@ If you find anything missing or want to update existing resources, you can creat
 - [Ethernaut](https://ethernaut.openzeppelin.com/)
 - [Capture The Ether](https://capturetheether.com/)
 - [QuillCTF](https://academy.quillaudits.com/challenges)
+- [Curta CTF](https://www.curta.wtf/)
 - [Paradigm CTF](https://ctf.paradigm.xyz/)
 - [ciphershastra CTF](https://ciphershastra.com/index.html)
 - [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
@@ -97,11 +99,11 @@ If you find anything missing or want to update existing resources, you can creat
     - [DeFi - Teachyourselfcrypto](https://teachyourselfcrypto.com/#ftoc-module-4-decentralized-finance-defi)
     - [Finematics - DeFi](https://www.youtube.com/watch?v=pWGLtjG-F5c&list=PLjrTIwaNiTwn39tg3sR_bPBWGHoznv47D)
     - [Smart Contract Programmer - DeFi](https://www.youtube.com/watch?v=qB2Ulx201wY&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW)
-    - *Well known DeFi Protocols:*
-        - [Uniswap](https://mvpworkshop.co/blog/uniswap-v3-explained-all-you-need-to-know/)
-        - [Compound](https://mvpworkshop.co/blog/uniswap-v3-explained-all-you-need-to-know/)
-        - [Aave](https://www.youtube.com/watch?v=WwE3lUq51gQ)
-        - [Balancer](https://medium.com/token-terminal/eli5-what-is-balancer-labs-16c8cfe092d9)
+- **Well known DeFi Protocols:**
+    - [Uniswap](https://mvpworkshop.co/blog/uniswap-v3-explained-all-you-need-to-know/)
+    - [Compound](https://mvpworkshop.co/blog/uniswap-v3-explained-all-you-need-to-know/)
+    - [Aave](https://www.youtube.com/watch?v=WwE3lUq51gQ)
+    - [Balancer](https://medium.com/token-terminal/eli5-what-is-balancer-labs-16c8cfe092d9)
 
 - **Common DeFi Attack Vectors:**
     - [Flash Loan Attack](https://www.moonpay.com/blog/defi-flash-loans-explained)
@@ -109,10 +111,32 @@ If you find anything missing or want to update existing resources, you can creat
     - [Front-Running](https://www.securing.pl/en/front-running-attack-in-defi-applications-how-to-deal-with-it/)
     - [Exit Scams](https://www.acamstoday.org/cryptocurrency-exit-scams-what-they-are-and-how-to-avoid-them/)
     - [Sandwich attacks](https://trustwallet.com/blog/how-to-protect-yourself-from-sandwich-attacks)
-    - [Rug Pulls](https://academy.binance.com/en/glossary/rug-pull)
     - [Unlimited Token Allowance](https://kalis.me/unlimited-erc20-allowances/)
+    
+### 9. Auditing Tools and Techniques:
+- **Auditing Tools:**
+    - [Slither](https://github.com/crytic/slither)
+    - [Mythril](https://github.com/ConsenSys/mythril)
+    - [Mythx](https://mythx.io/)
+    - [Echidna](https://github.com/crytic/echidna)
+    - [Foundry FUZZ](https://book.getfoundry.sh/forge/fuzz-testing)
+    - [Manticore](https://github.com/trailofbits/manticore)
+    - [Surya](https://github.com/ConsenSys/surya)
+- **VS Code Extensions**
+    - [Solidity Visual Developer](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-visual-auditor)
+    - [Solidity Metrics](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-metrics)
+    - [Slither VSC](https://marketplace.visualstudio.com/items?itemName=trailofbits.slither-vscode)
+    - [EthOver](https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-ethover)
 
-### 9. Postmortem & Audit Reports:
+- **Auditing Books and Guides**
+    - [The Auditors Book](https://theauditorbook.com/)
+    - [Audit Hero](https://audit-hero.com/search-findings)
+    - [solodit.xyz ](https://solodit.xyz/dashboard)
+    - [Audit Checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist)
+
+- **[Complete List of Web3 Security Tools](https://github.com/Quillhash/Web3-Security-Tools)**
+
+### 10. Postmortem & Audit Reports:
 
 - **Postmortems:**
     - [Immunefi](https://medium.com/@immunefi)
@@ -123,7 +147,12 @@ If you find anything missing or want to update existing resources, you can creat
     - [Neptune Mutual](https://medium.com/@neptunemutual)
     - [PeckShield](https://twitter.com/peckshield)
     - [hacxyk](https://medium.com/@hacxyk)
-    
+    - [Coinmonk](https://medium.com/coinmonks)
+    - [TrailOfBits](https://blog.trailofbits.com/)
+    - [Secureum](https://secureum.substack.com/)
+    - [Openzeppelin](https://blog.openzeppelin.com/security-audits/)
+    - [OfferCIA](https://officercia.mirror.xyz/)
+
 - **Audit Report Reading**
     - [QuillAudits](https://github.com/Quillhash/QuillAudit_Reports)
     - [Code4rena](https://code4rena.com/reports)
@@ -133,25 +162,12 @@ If you find anything missing or want to update existing resources, you can creat
     - [Openzeppelin](https://blog.openzeppelin.com/security-audits/)
     - [Chainsecurity](https://chainsecurity.com/audits/)
     - [Ackee Audit Reports](https://ackeeblockchain.com/blog/)
-    - [Secureum Audit Findings 101](https://secureum.substack.com/p/audit-findings-101)
-    - [Secureum Audit Findings 201](https://secureum.substack.com/p/audit-findings-201)
-    
-### 10. Auditing Tools:
-
-- [Slither](https://github.com/crytic/slither)
-- [Mythril](https://github.com/ConsenSys/mythril)
-- [Mythx](https://mythx.io/)
-- [Echidna](https://github.com/crytic/echidna)
-- [Manticore](https://github.com/trailofbits/manticore)
-- [Surya](https://github.com/ConsenSys/surya)
-- [Eth Security Toolbox](https://github.com/trailofbits/eth-security-toolbox)
-- [Web3 Security Tools List](https://github.com/Quillhash/Web3-Security-Tools)
+    - **[Complete List of Audit Reports](https://github.com/0xNazgul/Blockchain-Security-Audit-List)**
 
 ### 11. Keep Yourself Updated:
 
 - **Newsletters**: [Blockthreat](https://newsletter.blockthreat.io/), [Hashingbits](https://quillaudits.substack.com/), [Immunefi](https://immunefi.com/)
-- **Discord Communities**: [QuillAudits](https://discord.com/invite/WYb8Gfz8yy), [Immunefi](https://discord.gg/BNaTu2MB), [Secureum](https://discord.com/invite/ZzqCFRg828), [Blockchain Pentesting](https://discord.gg/6hDDsHHX)
-- **Blogs**: [Immunefi](https://medium.com/@immunefi), [QuillAudits](https://quillaudits.medium.com/),  [Coinmonk](https://medium.com/coinmonks), [TrailOfBits](https://blog.trailofbits.com/), [Secureum](https://secureum.substack.com/), [Openzeppelin](https://blog.openzeppelin.com/security-audits/), [OfferCIA](https://officercia.mirror.xyz/)
+- **Discord Communities**: [QuillAudits](https://discord.gg/b8y4Z8p7Qg), [Immunefi](https://discord.gg/immunefi), [Secureum](https://discord.gg/vGebCTSfNx), [Blockchain Pentesting](https://discord.gg/5JZERC5Vxs), [OpenSense](https://discord.gg/opensense), [Web3SeucurityDAO](https://discord.gg/9SQqMHkQxK), [DeFiHackLabs](https://discord.gg/HtqdYn2ECa)
 - **Twitter**: [Mudit Gupta,](https://twitter.com/Mudit__Gupta/)  [Samczun](https://twitter.com/samczsun), [Certik Alert](https://twitter.com/CertiKAlert), [PeckShieldAlert](https://twitter.com/PeckShieldAlert), [QuillAudits](https://twitter.com/QuillAudits), [BlockSec](https://twitter.com/BlockSecTeam), [BeosinAlert](https://twitter.com/BeosinAlert), [Officer_CIA](https://twitter.com/officer_cia)
 
 ### 12. Miscellaneous Resources:
