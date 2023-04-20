@@ -80,6 +80,7 @@ If you find anything missing or want to update existing resources, you can creat
 
 - [Ethernaut](https://ethernaut.openzeppelin.com/)
 - [Capture The Ether](https://capturetheether.com/)
+- [QuillCTF](https://academy.quillaudits.com/challenges)
 - [Paradigm CTF](https://ctf.paradigm.xyz/)
 - [ciphershastra CTF](https://ciphershastra.com/index.html)
 - [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
@@ -148,7 +149,7 @@ If you find anything missing or want to update existing resources, you can creat
 
 ### 11. Keep Yourself Updated:
 
-- **Newsletters**: [Blockthreat](https://newsletter.blockthreat.io/), [HashingBit](https://medium.com/quillhash/newsletters/hashing-bits-from-quillaudits), [Immunefi](https://immunefi.com/)
+- **Newsletters**: [Blockthreat](https://newsletter.blockthreat.io/), [Hashingbits](https://quillaudits.substack.com/), [Immunefi](https://immunefi.com/)
 - **Discord Communities**: [QuillAudits](https://discord.com/invite/WYb8Gfz8yy), [Immunefi](https://discord.gg/BNaTu2MB), [Secureum](https://discord.com/invite/ZzqCFRg828), [Blockchain Pentesting](https://discord.gg/6hDDsHHX)
 - **Blogs**: [Immunefi](https://medium.com/@immunefi), [QuillAudits](https://quillaudits.medium.com/),  [Coinmonk](https://medium.com/coinmonks), [TrailOfBits](https://blog.trailofbits.com/), [Secureum](https://secureum.substack.com/), [Openzeppelin](https://blog.openzeppelin.com/security-audits/), [OfferCIA](https://officercia.mirror.xyz/)
 - **Twitter**: [Mudit Gupta,](https://twitter.com/Mudit__Gupta/)  [Samczun](https://twitter.com/samczsun), [Certik Alert](https://twitter.com/CertiKAlert), [PeckShieldAlert](https://twitter.com/PeckShieldAlert), [QuillAudits](https://twitter.com/QuillAudits), [BlockSec](https://twitter.com/BlockSecTeam), [BeosinAlert](https://twitter.com/BeosinAlert), [Officer_CIA](https://twitter.com/officer_cia)
