@@ -81,7 +81,7 @@ If you find anything missing or want to update existing resources, you can creat
 
 - [Ethernaut](https://ethernaut.openzeppelin.com/)
 - [Capture The Ether](https://capturetheether.com/)
-- [QuillCTF](https://academy.quillaudits.com/challenges)
+- [QuillCTF](https://www.quillaudits.com/academy/ctf)
 - [Curta CTF](https://www.curta.wtf/)
 - [Paradigm CTF](https://ctf.paradigm.xyz/)
 - [ciphershastra CTF](https://ciphershastra.com/index.html)
