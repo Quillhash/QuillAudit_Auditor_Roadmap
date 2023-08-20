@@ -172,6 +172,7 @@ If you find anything missing or want to update existing resources, you can creat
 
 ### 12. Miscellaneous Resources:
 
+- [Smart Contract Hacking Course by JohnnyTime](https://smartcontractshacking.com/)
 - [Web3Suggests](https://web3suggest.xyz/)
 - [Web3-Security-Library](https://github.com/immunefi-team/Web3-Security-Library)
 - [TeachYourselfCrypto](https://teachyourselfcrypto.com)
