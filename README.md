@@ -172,6 +172,8 @@ If you find anything missing or want to update existing resources, you can creat
 
 ### 12. Miscellaneous Resources:
 
+- [Security and Audting Course by Cyfrin Updraft](https://updraft.cyfrin.io/courses/security)
+- [Web3 Security Course by Gateway](http://course.intogateway.com)
 - [Smart Contract Hacking Course by JohnnyTime](https://smartcontractshacking.com/)
 - [Web3Suggests](https://web3suggest.xyz/)
 - [Web3-Security-Library](https://github.com/immunefi-team/Web3-Security-Library)
