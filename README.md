@@ -36,9 +36,9 @@ If you find anything missing or want to update existing resources, you can creat
 
 ### 3. Testing and Debugging Frameworks
 
+- [Foundry](https://github.com/foundry-rs/foundry)
 - [Hardhat](https://hardhat.org/guides/waffle-testing.html)
 - [Brownie](https://eth-brownie.readthedocs.io/en/stable/)
-- [Foundry](https://github.com/foundry-rs/foundry)
 - [Tenderly](https://tenderly.co/)
 
 ### 4. Commonly used Libraries and Token Standards:
@@ -110,12 +110,13 @@ If you find anything missing or want to update existing resources, you can creat
     - [Price Oracle Manipulation](https://medium.com/beaver-smartcontract-security/defi-security-lecture-7-price-oracle-manipulation-d716cdeaaf77)
     - [Front-Running](https://www.securing.pl/en/front-running-attack-in-defi-applications-how-to-deal-with-it/)
     - [Exit Scams](https://www.acamstoday.org/cryptocurrency-exit-scams-what-they-are-and-how-to-avoid-them/)
-    - [Sandwich attacks](https://trustwallet.com/blog/how-to-protect-yourself-from-sandwich-attacks)
+    - [Sandwich attacks](https://medium.com/coinmonks/defi-sandwich-attack-explain-776f6f43b2fd)
     - [Unlimited Token Allowance](https://kalis.me/unlimited-erc20-allowances/)
     
 ### 9. Auditing Tools and Techniques:
 - **Auditing Tools:**
     - [Slither](https://github.com/crytic/slither)
+    - [QuillShield](https://shield.quillai.network/)
     - [Mythril](https://github.com/ConsenSys/mythril)
     - [Mythx](https://mythx.io/)
     - [Echidna](https://github.com/crytic/echidna)
@@ -129,9 +130,8 @@ If you find anything missing or want to update existing resources, you can creat
     - [EthOver](https://marketplace.visualstudio.com/items?itemName=tintinweb.vscode-ethover)
 
 - **Auditing Books and Guides**
-    - [The Auditors Book](https://theauditorbook.com/)
-    - [Audit Hero](https://audit-hero.com/search-findings)
-    - [solodit.xyz ](https://solodit.xyz/dashboard)
+    - [Audit Hero](https://audit-hero.com/finding)
+    - [solodit](https://solodit.cyfrin.io/)
     - [Audit Checklist](https://github.com/tamjid0x01/SmartContracts-audit-checklist)
 
 - **[Complete List of Web3 Security Tools](https://github.com/Quillhash/Web3-Security-Tools)**
@@ -173,9 +173,7 @@ If you find anything missing or want to update existing resources, you can creat
 ### 12. Miscellaneous Resources:
 
 - [Security and Audting Course by Cyfrin Updraft](https://updraft.cyfrin.io/courses/security)
-- [Web3 Security Course by Gateway](http://course.intogateway.com)
 - [Smart Contract Hacking Course by JohnnyTime](https://smartcontractshacking.com/)
-- [Web3Suggests](https://web3suggest.xyz/)
 - [Web3-Security-Library](https://github.com/immunefi-team/Web3-Security-Library)
 - [TeachYourselfCrypto](https://teachyourselfcrypto.com)
 - [w3bs3c](https://www.w3bs3c.com/)
